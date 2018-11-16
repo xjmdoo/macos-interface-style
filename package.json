@@ -1,0 +1,15 @@
+{
+  "name": "macos-interface-style",
+  "version": "1.0.0",
+  "description": "This package can be used to detect dark mode in macOS Mojave",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.11.1"
+  },
+  "gypfile": true
+}
