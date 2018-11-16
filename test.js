@@ -1,3 +1,3 @@
 const macOSInterface = require('./index.js');
 
-console.log(macOSInterface.getInterfaceStyle());
+console.log(macOSInterface.isDarkModeEnabled());
