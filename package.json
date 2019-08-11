@@ -1,6 +1,6 @@
 {
   "name": "macos-interface-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package can be used to detect dark mode in macOS",
   "main": "index.js",
   "scripts": {
